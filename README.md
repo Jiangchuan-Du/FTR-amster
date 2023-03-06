@@ -1,1 +1,1 @@
-# FTR-amster
+# FTR-master
